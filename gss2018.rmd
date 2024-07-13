@@ -1,7 +1,7 @@
 ---
 title: "General Social Survey"
-author: "Your Name"
-date: "Year 2020"
+author: "Addler Fuller"
+date: "Summer 2024"
 output: 
   html_document:
     number_sections: true
